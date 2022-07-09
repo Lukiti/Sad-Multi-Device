@@ -774,7 +774,7 @@ export async function handler(chatUpdate) {
             if (quequeIndex !== -1) this.msgqueue.splice(quequeIndex, 1)
         }
         // console.log(global.db.data.users[m.sender])
-        await this.sendPresenceUpdate('recording',m.chat)
+        // await this.sendPresenceUpdate('recording',m.chat)
         let user, stats = global.db.data.stats
         if (m) {
             if (m.sender && (user = global.db.data.users[m.sender])) {
@@ -894,16 +894,16 @@ To turn off this feature, type
 
 global.dfail = (type, m, conn) => {
     let msg = {
-        rowner: 'This command can only be used by _*OWWNER!1!1!*_',
-        owner: 'This command can only be used by _*Owner Bot*_!',
-        mods: 'This command can only be used by _*Moderator*_ !',
-        premium: 'This command is only for _*Premium*_ members!',
-        group: 'This command can only be used in groups!',
-        private: 'This command can only be used in Private Chat!',
-        admin: 'This command is only for *Admin* group!',
-        botAdmin: 'Make bot as *Admin* to use this command!',
+        rowner: 'Perintah ini hanya dapat digunakan oleh _*Owwner!!*_',
+        owner: 'Perintah ini hanya dapat digunakan oleh _*Pemilik Bot*_',
+        mods: 'Perintah ini hanya dapat digunakan oleh _*Moderator*_',
+        premium: 'Perintah ini hanya untuk member_*premium!*_ ',
+        group: 'Perintah ini hanya dapat digunakan dalam grup!',
+        private: 'Perintah ini hanya dapat digunakan di Private Chat!',
+        admin: 'Perintah ini hanya untuk *admin* group!',
+        botAdmin: 'Jadikan bot sebagai *admin* terlebih dahulu untuk menjalankan perintah ini!',
         unreg: 'Silahkan daftar untuk menggunakan fitur ini dengan cara mengetik:\n\n*#daftar nama.umur*\n\nContoh: *#daftar Manusia.16*',
-        restrict: 'This feature is *disabled*!'
+        restrict: 'Fitur ini*di nonaktifkan!*'
     }[type]
     if (msg) return conn.reply(m.chat, msg, m, { contextInfo: { externalAdReply: {title: global.wm, body: '404 Access denied!', sourceUrl: sgc, thumbnail: fs.readFileSync('./thumbnail.jpg') }}})
 }
