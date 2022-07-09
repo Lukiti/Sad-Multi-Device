@@ -29,8 +29,8 @@ orderMessage: {
 itemCount: 9999999,
 status: 1,
 surface: 1,
-message: 'Sad-Bot', 
-orderTitle: `Papah-Chan`,
+message: 'Findi-Bot', 
+orderTitle: `Gaara-Setyawan`,
 thumbnailUrl: 'https://i.waifu.pics/KcrOIYV.jpg', 
 sellerJid: '0@s.whatsapp.net'}}}}
 if (command == 'playlist') {

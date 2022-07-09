@@ -37,10 +37,10 @@ let thumb = await(await fetch(wibu)).buffer()
     try { _thumb = { jpegThumbnail: await (await fetch(thumbnail)).buffer() } }
     catch (e) { }
     await conn.sendMessage(m.chat, { [/^(?:-|--)doc$/i.test(args[1]) || isLimit ? 'document' : 'video']: { url: link }, fileName: `${title}.mp4`, mimetype: 'video/mp4', ..._thumb }, { quoted: fkontak },{ contextInfo: { externalAdReply: { showAdAttribution: true,
-      mediaUrl: "https://Instagram.com/bot_whangsaf",
+      mediaUrl: "https://Instagram.com/gaara_xploite",
       mediaType: "VIDEO",
-      description: "https://Instagram.com/bot_whangsaf", 
-      title: 'Simple Bot Esm',
+      description: "https://Instagram.com/gaara_xploite", 
+      title: 'Simple Bot Wa',
       body: wm,
       thumbnail: thumb,
       sourceUrl: sgc
