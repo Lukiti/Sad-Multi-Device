@@ -53,7 +53,7 @@ https://github.com/Rlxfly
 https://github.com/Aiinne
 *▸ - - - —「 KANG RECODE 」— - - - ◂*
 *❉ Gaara:*
-https://github.com/garaofc
+https://github.com/gaara-ofc
 *▸ - - - —「 SPESIAL HELPER 」— - - - ◂*
 *❉ Kannachan:*
 *❉ Johannes:*

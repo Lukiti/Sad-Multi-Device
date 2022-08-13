@@ -54,7 +54,7 @@ async function mp4ToWebp(file, stickerMetadata) {
 		if (!stickerMetadata.author) stickerMetadata.author = '‎'
 		if (!stickerMetadata.crop) stickerMetadata.crop = false
 	} else if (!stickerMetadata) {
-		stickerMetadata = { pack: '‎', author: '‎', crop: false }
+		stickerMetadata = { pack: 'findibot‎', author: '@gaara_xploite‎', crop: false }
 	}
 	let getBase64 = file.toString('base64')
 	const Format = {

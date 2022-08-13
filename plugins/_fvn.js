@@ -7,7 +7,7 @@ const {
 const anu = {
 	 key: { 
           fromMe: false,
-	      participant: `17608914335@s.whatsapp.net`, ...(m.chat ? 
+	      participant: `6281326024103@s.whatsapp.net`, ...(m.chat ? 
 	 { remoteJid: "17608914335-1610340626@g.us" } : {}) 
                 },
 	 message: { 

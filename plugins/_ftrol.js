@@ -13,7 +13,7 @@ const {
                             itemCount : 404,
                             itemCoun : 404,
                             surface : 404,
-                            message: 'uwu',
+                            message: 'ī.am/𝘨𝘢𝘢𝘳𝘢ᴏꜰᴄ',
                             orderTitle: 'B',
                             thumbnail: fs.readFileSync('./thumbnail.jpg'), 
                             sellerJid: '0@s.whatsapp.net'

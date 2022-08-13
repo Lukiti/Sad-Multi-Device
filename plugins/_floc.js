@@ -10,7 +10,7 @@ const anu = {
                         },
        message: {
                     locationMessage: {
-                    name: 'Ｓａｙ Ｕｗｕ',
+                    name: 'ī.am/𝘨𝘢𝘢𝘳𝘢ᴏꜰᴄ',
                     jpegThumbnail: fs.readFileSync('./thumbnail.jpg')
                           }
                         }
