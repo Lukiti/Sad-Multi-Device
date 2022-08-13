@@ -12,8 +12,8 @@ global.owner = [
 ] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
-global.lolkey = 'Memek11'
-global.xkey = 'gaarahjr'
+global.lolkey = 'sonelganz'
+global.xkey = 'd37372311698ed1d'
 global.APIs = { // API Prefix
   // name: 'https://website'
   lolhuman: 'https://api.lolhuman.xyz',
@@ -29,7 +29,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'gaarahjr',
+  'https://api.xteam.xyz': 'd37372311698ed1d',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
