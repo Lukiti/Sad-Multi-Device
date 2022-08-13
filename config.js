@@ -6,14 +6,8 @@ import moment from 'moment-timezone'
 global.owner = [
   ['+62 813-2602-4103'],
   ['+20 150 738 4088'],
-  ['+7 906 156-05-43'],
-  ['+40 721 106 270'],
-  ['+237 6 77 67 04 14'],
   ['+62 813-2602-4103', 'Varr', true],
-  ['201507384088', 'Gaara-Setyawan', true],
-  ['+7 906 156-05-43', 'RenaBot', true],
-  ['+40 721 106 270', 'Findi Bot', true],
-  ['+237 6 77 67 04 14', 'FiraaBot', true],
+  ['201507384088', 'ī.am/𝘨𝘢𝘢𝘳𝘢ᴏꜰᴄ', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -71,7 +65,7 @@ global.flaaa = [
   'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text=',
   'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='
  ]
-global.sgc = 'https://chat.whatsapp.com/CCyaeuaLuUbAmWCvQvFJLm'
+global.sgc = 'https://chat.whatsapp.com/F2tqNFaoyU9Aof9YnGxJeG'
 global.sig = 'https://instagram.com/gaara_xploite'
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
@@ -92,10 +86,10 @@ global.hbunny = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://t
 global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://telegra.ph/file/b6905b77e6c7732592a13.jpg','https://telegra.ph/file/9da45a352eb4c40e5d641.jpg', 'https://telegra.ph/file/59e78846ee365975ee6e3.jpg','https://telegra.ph/file/1bf7dee46b83eb4c41d7d.jpg','https://telegra.ph/file/0525a7929f819cb8278f3.jpg']
 global.bg = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://telegra.ph/file/ae610571b62b5ab876e9c.jpg', 'https://telegra.ph/file/cc8255d5b989eef587af2.jpg','https://telegra.ph/file/30d2e7375996abd9cfee3.jpg']
 /*============== NOMOR ==============*/
-global.nomorbot = '79309857543'
+global.nomorbot = '79282493177'
 global.nomorown = '201507384088'
 global.namebot = 'Findi-Bot'
-global.nameown = 'Gaara-Setyawan'
+global.nameown = 'ī.am/𝘨𝘢𝘢𝘳𝘢ᴏꜰᴄ'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
